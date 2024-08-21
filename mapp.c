@@ -23,5 +23,6 @@ int main() {
   {
       
        printf("\t%d",list[i]);
+        printf("\t%d",list[i]);
   }
 }
